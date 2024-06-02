@@ -1,7 +1,7 @@
 {
     "name": "Ban All Bots",
     "logo": "",
-    "repository": "https://github.com/ItZxSTaR/XBOTS",
+    "repository": "https://github.com/golujha9936/BanAllBot",
     "env": {
       "BOT_TOKEN1": {
             "description": "Your bot token",
