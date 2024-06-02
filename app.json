@@ -5,57 +5,57 @@
     "env": {
       "BOT_TOKEN1": {
             "description": "Your bot token",
-            "value": "",
+            "value": "7062300243:AAEn_qLdai9jF-jjMIlBRHK-J7cE6Ym3-Xk",
             "required": true
         },
         "BOT_TOKEN2": {
             "description": "Your bot token",
-            "value": "",
+            "value": "7398409486:AAEPXRXgSLrC2lsyEvUvCJl9N0_v2kbob6A",
             "required": true
         },
         "BOT_TOKEN3": {
             "description": "Your bot token",
-            "value": "",
+            "value": "6239439352:AAFCioAUTGFDj5XBhZHbT_phAY60bVtzINo",
             "required": true
         },
         "BOT_TOKEN4": {
             "description": "Your bot token",
-            "value": "",
+            "value": "6086282383:AAHSqBGU2KFWLXLTwsSj2qHBWYyT-Al73As",
             "required": true
         },
         "BOT_TOKEN5": {
             "description": "Your bot token",
-            "value": "",
+            "value": "5961965523:AAFSQcFPL1B20q0IJngtsoM2BVyM2fys1dA",
             "required": true
         },
         "BOT_TOKEN6": {
             "description": "Your bot token",
-            "value": "",
+            "value": "5996129443:AAHaUTobd-QHK3p5UOu9glV42jQ70TQDXVQ",
             "required": true
         },
         "BOT_TOKEN7": {
             "description": "Your bot token",
-            "value": "",
+            "value": "6432360936:AAFrrrZYwT8RevkKT0UafTBelwNRuqTfhwI",
             "required": true
         },
         "BOT_TOKEN8": {
             "description": "Your bot token",
-            "value": "",
+            "value": "6979020358:AAGqK9urmdVZYHILM1DmfLXfKBzFxh6OKrs",
             "required": true
         },
         "BOT_TOKEN9": {
             "description": "Your bot token",
-            "value": "",
+            "value": "7450557679:AAGdZG6gHZihtbSGSSrKfoUA_h6EEJE5R4w",
             "required": true
         },
         "BOT_TOKEN10": {
             "description": "Your bot token",
-            "value": "",
+            "value": "7227461901:AAEAUbcHXD9QHpbHobEmjf8hxulcVJAcI5A",
             "required": true
         },
         "SUDO": {
             "description": "sudo ids here.",
-            "value": "",
+            "value": "5948367761",
             "required": true
         }
     },
